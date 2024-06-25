@@ -1,0 +1,14 @@
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\bin\Debug\net8.0\Work3.exe
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\bin\Debug\net8.0\Work3.deps.json
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\bin\Debug\net8.0\Work3.runtimeconfig.json
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\bin\Debug\net8.0\Work3.dll
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\bin\Debug\net8.0\Work3.pdb
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\obj\Debug\net8.0\Work3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\obj\Debug\net8.0\Work3.AssemblyInfoInputs.cache
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\obj\Debug\net8.0\Work3.AssemblyInfo.cs
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\obj\Debug\net8.0\Work3.csproj.CoreCompileInputs.cache
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\obj\Debug\net8.0\Work3.dll
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\obj\Debug\net8.0\refint\Work3.dll
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\obj\Debug\net8.0\Work3.pdb
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\obj\Debug\net8.0\Work3.genruntimeconfig.cache
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work3\obj\Debug\net8.0\ref\Work3.dll

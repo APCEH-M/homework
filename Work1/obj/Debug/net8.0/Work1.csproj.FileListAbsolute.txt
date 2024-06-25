@@ -1,0 +1,14 @@
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\obj\Debug\net8.0\Work1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\obj\Debug\net8.0\Work1.AssemblyInfoInputs.cache
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\obj\Debug\net8.0\Work1.AssemblyInfo.cs
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\obj\Debug\net8.0\Work1.csproj.CoreCompileInputs.cache
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\bin\Debug\net8.0\Work1.exe
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\bin\Debug\net8.0\Work1.deps.json
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\bin\Debug\net8.0\Work1.runtimeconfig.json
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\bin\Debug\net8.0\Work1.dll
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\bin\Debug\net8.0\Work1.pdb
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\obj\Debug\net8.0\Work1.dll
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\obj\Debug\net8.0\refint\Work1.dll
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\obj\Debug\net8.0\Work1.pdb
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\obj\Debug\net8.0\Work1.genruntimeconfig.cache
+D:\Work\Lessons\Языки программирования\2024-05-30 - C#\HomeWorks\Урок 7. Рекурсия\Work1\obj\Debug\net8.0\ref\Work1.dll
